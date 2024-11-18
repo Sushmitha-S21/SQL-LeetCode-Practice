@@ -23,17 +23,6 @@ This repository is built to maintain consistency of learning and upskilling myse
      - SQL solution
      - Explanation of the approach— (because I feel understanding beats memorization)
 
-## **How to Use This Repository**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-github-username>/SQL-Leetcode-Practice.git
-   ```
-2. Navigate to the relevant difficulty or topic folder to explore questions and solutions.
-3. Check out the SQL scripts and their explanations—they're designed to make your life easier.
-4. Test queries in your local database or online SQL editors like [Leetcode SQL Playground](https://leetcode.com/problemset/database/).
-
----
-
 ## **Topics Covered**
 - Data Retrieval and Manipulation
 - Joins and Relationships
@@ -46,11 +35,6 @@ This repository is built to maintain consistency of learning and upskilling myse
 ## **Current Plans**
 - Try and Solve as many as problems possible with optimised codes.
 - Expand my skills and become a better person everyday.
-
----
-
-## **Contributions**
-Contributions are more than welcome! Found a better solution? Want to add a new problem? Let’s collaborate! Feel free to create a pull request or open an issue with your suggestions.
 
 ## **Contact**
 Got Feedback, or just want to connect? Reach out—I’d love to hear from you!
